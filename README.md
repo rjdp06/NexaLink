@@ -1,81 +1,34 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## Internship Assignment – by Rajdeep Kumar
+Contact No: +91 95647 92954 Email ID: rjdpkr06@gmail.com
+# Given objective –
+Develop a React Native screen that displays a layout as per the design with a QR code pointing to nexalink.co.
+# Tools and Libraries used –
+1. React Native, Javascript – to build the app’s interface.
+2. React-native-vector-icon – a library that provides customizable vector icons for React Native applications.
+3. React-native-qrcode-svg – for generating QR codes in React Native applications.
+4. React-native-responsive-screen – creates flexible layouts that adapt to different screen sizes and resolutions.
+# Approach –
+1. Setting Up React Native Project –
+Created a new React native project using, “npx react-native init NexaLink”
+2. Installing Dependencies –
+I am installing the necessary dependencies mentioned above in the "Tools and Libraries" section, i.e., react-native-vector-icon, react-native-qrcode-svg, and react-native-responsive-screen.
+3. Layout Implementation –
+I used Flexbox and react-native-responsive-screen (widthPercentageToDP, heightPercentageToDP) to structure the components as per the design given.
+4. Icons Integration-
+Utilized a library, react-native-vector-icon, to integrate icons into the application.
+5. QR Code Integration –
+Utilized a library, react-native-qrcode-svg to generate a QR code pointing to “nexalink.co”.
+6. Styling –
+Apply styles to match the design assigned using inline and internal stylesheet.
+7. Testing –
+I used different devices and screen sizes to test the layout and responsiveness.
+Thank you for the opportunity to complete the technical assignment and I am excited to work with NexaLink.
 
-# Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+# Output -
+![Screenshot_20240706-014537](https://github.com/rjdp06/NexaLink/assets/144466783/4abd6537-d872-49bf-b692-740532d5b359)
+![Screenshot_20240706-014541](https://github.com/rjdp06/NexaLink/assets/144466783/1117abc9-337b-42b7-8c04-0e2bb81474c1)
 
-## Step 1: Start the Metro Server
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # NexaLink
 # NexaLink
