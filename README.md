@@ -1,5 +1,5 @@
 ## Internship Assignment – by Rajdeep Kumar
-Contact No: +91 95647 92954 Email ID: rjdpkr06@gmail.com
+Email ID: rjdpkr06@gmail.com
 # Given objective –
 Develop a React Native screen that displays a layout as per the design with a QR code pointing to nexalink.co.
 # Tools and Libraries used –
